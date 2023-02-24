@@ -1,0 +1,434 @@
+"row_id","lake_id","name","country","state_prov","lat","long","max_depth","surf_area","type","troph_status"
+1,1,"Washington","USA","Washington",47.6215,-122.2558,65,8760,"Monomictic",NA
+2,2,"Sammamish","USA","Washington",47.6085,-122.0878,32,1980,"Monomictic",NA
+3,3,"Mueggelsee","Germany","Berlin",52.438,13.65,8,730,"Polymictic",""
+4,4,"Erken","Sweden","Stockholm",59.8403,18.6258,20.65,24.2,"dimictic",NA
+5,5,"Rimov Reservoir","Czech Republick","South Bohemian Region",48.8489,14.4912,42,180,"Reservoir",NA
+6,6,"Maggiore","Italy",NA,45.95,8.63,370,21250,"Holo-oligomictic","Oligotrophic"
+7,7,"Neversink Reservoir","USA","New York",41.8222,-74.6424,51.3,604.1,"Dimictic Reservoir","Mesotrophic"
+8,8,"Cannonsville Reservoir","USA","New York",42.0661,-75.3748,44.7,1907.2,"Dimictic Reservoir","Oligo to Mesotrophic"
+9,10,"ELA Lake 224","Canada","Ontario",49.6901,-93.7169,27.4,25.9,"Dimictic","Oligotrophic"
+10,11,"ELA Lake 239","Canada","Ontario",49.6627,-93.7227,30.4,54.3,"Dimictic","Oligotrophic"
+11,12,"ELA Lake 373","Canada","Ontario",49.7449,-93.7987,20.75,27.3,"Dimictic","Oligotrophic"
+12,15,"Kezar Lake - Upper Bay","USA","Maine",44.2263,-70.8976,49,1078,"Dimictic","Oligotrophic"
+13,16,"Kezar Lake - Lower Bay","USA","Maine",44.1577,-70.9275,49,1078,"Dimictic","Oligotrophic"
+14,17,"Cushman Pond","USA","Maine",44.2197,-70.8317,6,15,"Dimictic",NA
+15,18,"Heald Pond","USA","Maine",44.2158,-70.8676,5,43,"Dimictic",NA
+16,19,"Farrington Pond","USA","Maine",44.1781,-70.9269,5,23,"Dimictic",NA
+17,20,"Horseshoe Pond","USA","Maine",44.2278,-70.9401,12,55,"Dimictic",NA
+18,21,"Bauneg Beg Lake","USA","Maine",43.3652,-70.7383,8.8,80.9,"Dimictic",NA
+19,22,"Sabbathday Lake","USA","Maine",43.9793,-70.3516,18,138,"Dimictic",NA
+20,23,"Lake Caldonazzo","Italy","Trento",46.0167,11.2433,49,562.7,"Monomictic","Mesotrophic"
+21,24,"Lake Iseo","Italy","Lombardy",45.7167,10.0833,256,6530,"Monomictic","Degraded Oligotrophic"
+22,25,"Jordan Pond","USA","Maine",44.3327,-68.2552,45.7,75.7,"Dimictic","Oligotrophic"
+23,26,"Allequash","USA","Wisconsin",46.0367,-89.6291,8,168.4,NA,"Mesotrophic"
+24,27,"Big Muskellunge","USA","Wisconsin",46.0162,-89.6135,21.3,396.3,NA,"Oligotrophic"
+25,28,"Crystal Bog","USA","Wisconsin",46.0076,-89.6063,2.5,0.5,NA,"Dystrophic"
+26,29,"Crystal Lake","USA","Wisconsin",46.0018,-89.6136,20.4,36.7,"Dimictic","Oligotrophic"
+27,30,"Fish Lake","USA","Wisconsin",43.2872,-89.6531,18.9,87.4,NA,NA
+28,31,"Lake Mendota","USA","Wisconsin",43.1113,-89.4255,25.3,3961,NA,"Eutrophic"
+29,32,"Lake Monona","USA","Wisconsin",43.0678,-89.3626,22.5,1324,NA,"Eutrophic"
+30,33,"Sparkling","USA","Wisconsin",46.0091,-89.6995,20,64,NA,"Oligotrophic"
+31,34,"Trout Bog","USA","Wisconsin",46.0412,-89.6861,7.9,1.1,NA,"Dystrophic"
+32,35,"Trout","USA","Wisconsin",46.0461,-89.6751,35.7,1607.9,NA,"Oligotrophic"
+33,36,"Lake Wingra","USA","Wisconsin",43.0534,-89.4182,6.7,139.6,NA,"Eutrophic"
+34,37,"Bubble Pond","USA","Maine",44.345,-68.2391,11.9,12.9,NA,"Oligotrophic"
+35,38,"Eagle","USA","Maine",44.3628,-68.2506,33.6,176.8,NA,"Oligotrophic"
+36,39,"Irvine","USA","North Dakota",48.3059,-99.1725,0,0,NA,NA
+37,40,"Brunner","New Zealand","Westcoast",-42.6175,171.4389,109,4100,"Monomictic","Oligotrophic"
+38,41,"Kortowskie","Poland",NA,53.7612,20.4454,17.2,89.7,NA,NA
+39,44,"Tarawera","New Zealand","Bay of Plenty",-38.1913,176.4339,87,4129,"Monomictic","Oligotrophic"
+40,45,"Taupo","New Zealand","Waikato",-38.8006,175.9012,160,61600,"Monomictic","Oligotrophic"
+41,46,"Blue Chalk","Canada","Muskoka",45.1987,-78.9406,23,52.4,NA,NA
+42,47,"Chub","Canada","Ontario",45.2141,-78.9824,27,34.4,NA,NA
+43,48,"Crosson","Canada","Ontario",45.0838,-79.0349,23.5,56.7,NA,NA
+44,49,"Dickie","Canada","Ontario",45.1514,-79.0862,12,93.6,NA,NA
+45,50,"Harp","Canada","Ontario",45.3794,-79.1326,37.5,71.7,NA,NA
+46,51,"Heney","Canada","Ontario",45.1283,-79.1018,5.8,21.4,NA,NA
+47,52,"Plastic","Canada","Ontario",45.1802,-78.8232,16.3,32.1,NA,NA
+48,53,"Red Chalk Main","Canada","Ontario",45.1903,-78.9476,38,58.3,NA,NA
+49,54,"Red Chalk East","Canada","Ontario",45.1903,-78.9406,17,13.1,NA,NA
+50,55,"Annie","USA","Florida",27.9925,-81.6069,21,34.1,"Monomictic","Oligotrophic"
+51,56,"Big Moose","USA","New York",43.8169,-74.8561,21.3,512.5,NA,NA
+52,57,"Brooktrout","USA","New York",43.601,-74.6606,23.2,28.7,NA,NA
+53,58,"Carry","USA","New York",43.682,-74.4886,4.6,2.8,NA,NA
+54,59,"Cascade","USA","New York",43.7891,-74.812,6.1,40.4,NA,NA
+55,60,"Constable","USA","New York",43.831,-74.8064,4,20.6,NA,NA
+56,61,"Dart","USA","New York",43.7938,-74.8726,17.7,51.8,NA,NA
+57,62,"G","USA","New York",43.4171,-74.6339,9.8,32.2,NA,NA
+58,63,"Grass","USA","New York",43.693,-75.0608,5.2,5.3,NA,NA
+59,64,"Indian","USA","New York",43.6229,-74.7607,10.7,33.2,NA,NA
+60,65,"Jockeybush","USA","New York",43.3028,-74.5914,11.3,17.3,NA,NA
+61,66,"Limekiln","USA","New York",43.713,-74.8125,21.9,186.9,NA,NA
+62,67,"Long","USA","New York",43.8379,-74.479,4,1.7,NA,NA
+63,68,"Moss","USA","New York",43.7814,-74.853,15.2,45.7,NA,NA
+64,69,"North","USA","New York",43.5278,-74.9396,17.7,176.8,NA,NA
+65,70,"Rondaxe","USA","New York",43.7609,-74.9159,10.1,90.5,NA,NA
+66,71,"Round","USA","New York",0,0,0,0,NA,NA
+67,72,"Sagamore","USA","New York",43.7661,-74.6284,22.9,68,NA,NA
+68,73,"South","USA","New York",43.511,-74.8759,18.3,197.4,NA,NA
+69,74,"Squaw","USA","New York",43.6351,-74.7396,6.7,36.4,NA,NA
+70,75,"Wheeler","USA","New York",0,0,0,0,NA,NA
+71,76,"Giles","USA","Pennsylvania",41.375,-75.0926,23,48.1,NA,NA
+72,77,"Lacawac","USA","Pennsylvania",41.3817,-75.2923,13,21.4,NA,NA
+73,78,"Sunapee 200","US","New Hampshire",43.4039,-72.0438,33.7,1673.8,"Monomictic","Oligotrophic"
+74,79,"Sunapee 210","US","New Hampshire",43.3844,-72.0624,33.7,1673.8,"Monomictic","Oligotrophic"
+75,80,"Bilby Ranch","USA","Missouri",40.3481,-95.1333,10,44.5,"Monomictic","Eutrophic"
+76,81,"Binder","USA","Missouri",38.6019,-92.3008,15,58.8,"Monomictic","Eutrophic"
+77,82,"Blind Poney","USA","Missouri",39.0316,-93.3681,7,43.4,"Monomictic","Eutrophic"
+78,83,"Bowling Green","USA","Missouri",39.3416,-91.1528,17,8.9,"Monomictic","Mesotrophic"
+79,84,"Brookfield","USA","Missouri",39.7961,-93.0283,10,45.7,"Monomictic","Mesotrophic"
+80,85,"Capri","USA","Missouri",37.8977,-90.6275,21,41.8,"Monomictic","Oligotrophic"
+81,86,"Clearwater","USA","Missouri",37.1339,-90.7722,20,878.6,"Monomictic","Mesotrophic"
+82,87,"Council Bluff","USA","Missouri",37.735,-90.9116,21,172.4,"Monomictic","Oligotrophic"
+83,88,"Forest Lake","USA","Missouri",40.1688,-92.6592,13.5,231.6,"Monomictic","Mesotrophic"
+84,89,"McDaniel","USA","Missouri",37.2939,-93.3142,10.3,104.4,"Monomictic","Mesotrophic"
+85,90,"Paho","USA","Missouri",40.3993,-93.6558,9,98.3,"Monomictic","Eutrophic"
+86,91,"Rain Tree","USA","Missouri",38.835,-94.3817,10,87.6,"Monomictic","Eutrophic"
+87,92,"Shayne","USA","Missouri",37.9,-90.64,17,29.6,"Monomictic","Oligotrophic"
+88,93,"Smithville","USA","Missouri",39.3979,-94.554,16,2868,"Monomictic","Mesotrophic"
+89,94,"Stockton","USA","Missouri",37.6917,-93.7666,29,11226.8,"Monomictic","Oligotrophic"
+90,95,"Table Rock","USA","Missouri",36.595,-93.3108,30,12105.4,"Monomictic","Oligotrophic"
+91,96,"Truman","USA","Missouri",38.2639,-93.4083,15,21777.8,"Monomictic","Eutrophic"
+92,97,"Vandalia","USA","Missouri",39.2375,-91.5389,4,8.5,"Monomictic","Eutrophic"
+93,98,"Viking","USA","Missouri",39.9377,-94.0569,18,207.3,"Monomictic","Mesotrophic"
+94,99,"Walensee","Switzerland",NA,47.123,9.223,151,2410,"Oligotrophic","Monomictic "
+95,100,"Zurich","Switzerland",NA,47.285,8.591,136,6660,"Mesotrophic","Monomictic"
+96,101,"Neuchatel","Switzerland",NA,46.904,6.843,153,21500,"Oligotrophic","Monomictic"
+97,102,"Geneva","Switzerland",NA,46.441,6.6,310,58010,"Mesotrophic","Complete mixing occasional"
+98,103,"Constance","Switzerland",NA,47.629,9.374,252,53600,"Oligo-mesotrophic","Monomictic"
+99,104,"Biel","Switzerland",NA,47.104,7.198,74,3776,"Meso-eutrophic","Monomictic"
+100,105,"Diefenbaker","Canada","Saskatchewan",51.117,-106.63,62,50000,"Polymictic","Mesotrophic"
+101,106,"Buffalo Pound","Canada","Saskatchewan",50.65,-105.5,5.5,2910,"Polymictic","Eutrophic"
+102,107,"Last Mountain","Canada","Saskatchewan",51.083,-105.23,30.8,22660,"Polymictic","Eutrophic"
+103,108,"Wascana","Canada","Saskatchewan",50.45,-104.609,3,50,"Polymictic","Eutrophic"
+104,109,"Pasqua","Canada","Saskatchewan",50.78,-104,16,2000,"Polymictic","Eutrophic"
+105,110,"Katepwa","Canada","Saskatchewan",50.7,-103.65,23.2,1620,"Polymictic","Eutrophic"
+106,111,"Crooked","Canada","Saskatchewan",50.6,-102.73,16.5,1500,"Polymictic","Eutrophic"
+107,113,"Naroch","Belarus","Minsk Region",54.8459,26.7686,24.8,7660,"Oligo-mesotrophic","Polymictic"
+108,114,"Delavan","USA","Wisconsin",42.6026,-88.6078,15.8,771.3,NA,NA
+109,115,"Flathead","USA","Montana",47.8812,-114.1183,113,51022.8,NA,NA
+110,116,"Powers","USA","Wisconsin",42.5471,-88.2983,10.06,182.5,NA,NA
+111,117,"Texoma","USA","Oklahoma",33.9065,-96.6275,30,36017,NA,NA
+112,118,"T Bird","USA","Oklahoma",35.2208,-97.2181,18,2164.7,NA,NA
+113,119,"Eucha","USA","Oklahoma",36.358,-94.8896,26,1100,NA,"Eutrophic"
+114,120,"Spavinaw","USA","Oklahoma",36.3818,-95.0477,14,700,NA,"Eutrophic"
+115,122,"Stechlin","Germany","Brandenburg",53.152,13.0233,69.5,452,NA,"Oligo-mesotrophic"
+116,123,"Kivu","DR Congo",NA,-2.0448,29.1856,480,237000,"Meromictic","Oligotrophic"
+117,124,"Otsego","USA","New York",42.7706,-74.8916,0,0,NA,NA
+118,125,"Blelham Tarn","United Kingdom","Cumbria",54.396,-2.978,14.5,11,"Mostly Monomictic","Meso-Eutrophic"
+119,126,"Itasca","USA","Minnesota",47.208,-95.1778,12.2,436,"Dimictic","Meso-eutrophic"
+120,127,"Annecy (grand lac)","France","Haute-Savoie",45.8574,6.1735,64.7,2650,"","Oligotrophic"
+121,129,"Kasumigaura","Japan","Ibaraki",36.0357,140.4037,7.3,17060,"Polymictic","Eutrophic"
+122,130,"Lake George Dome","US","New York",43.4266,-73.7064,60,12000,"",""
+123,131,"Lake George Rogers","US","New York",43.4266,-73.7064,60,12000,"",""
+124,132,"Big Cedar","USA","Wisconsin",43.3733,-88.2637,32.01,379.2,NA,"Mesotrophic"
+125,133,"Browns","USA","Wisconsin",42.6903,-88.2436,15.24,160.7,NA,"Eutrophic"
+126,134,"Crystal2","USA","Wisconsin",43.8061,-88.0186,18.59,52.2,NA,"Mesotrophic"
+127,135,"Keesus","USA","Wisconsin",43.1692,-88.32,12.8,95.1,NA,"Mesotrophic"
+128,136,"Mary","USA","Wisconsin",42.5233,-88.2567,10.06,132.3,NA,"Mesotrophic"
+129,137,"Nagawicka","USA","Wisconsin",43.0729,-88.3885,27.43,397,NA,"Mesotrophic"
+130,138,"Pewaukee","USA","Wisconsin",43.08,-88.2917,13.72,986.2,NA,"Mesotrophic"
+131,139,"School Section","USA","Wisconsin",42.9842,-88.5033,2.44,49.4,NA,"Eutrophic"
+132,140,"Emerald","USA","California",36.5969,-118.675,10,2.9,NA,"Oligotrophic"
+133,141,"Pushaw","USA","Maine",44.9363,-68.7993,8.54,1894.7,NA,"Mesotrophic"
+134,142,"Upper Narrows Pond","USA","Maine",44.3061,-69.9447,16.46,96.8,NA,"Mesotrophic"
+135,143,"Lower Narrows Pond","USA","Maine",44.2905,-69.9522,32.32,90.3,NA,"Mesotrophic"
+136,144,"Little Pennesseewassee (Hobbs Pond)","USA","Maine",44.2243,-70.6165,9.45,40.5,NA,"Mesotrophic"
+137,145,"Long","USA","Maine",45.2162,-67.609,7.62,246.2,NA,"Mesotrophic"
+138,146,"Madawaska","USA","Maine",47.0254,-68.2179,11.59,635.2,NA,"Eutrophic"
+139,147,"Sebasticook","USA","Maine",44.8581,-69.238,15.24,1836.8,NA,"Eutrophic"
+140,148,"Long Pond","USA","Maine",44.0006,-70.8568,5.79,17.8,NA,"Mesotrophic"
+141,149,"Granger Pond","USA","Maine",43.9553,-70.7867,8.54,50.6,NA,"Mesotrophic"
+142,150,"Little Moose Pond","USA","Maine",43.9611,-70.8143,3.96,13.4,NA,"Mesotrophic"
+143,151,"Sand (Walden) Pond","USA","Maine",43.9543,-70.7667,13.41,100.4,NA,"Mesotrophic"
+144,152,"Hancock Pond","USA","Maine",43.9396,-70.7458,17.99,308.1,NA,"Mesotrophic"
+145,153,"Moose Pond","USA","Maine",44.0417,-70.796,21.34,687,NA,"Mesotrophic"
+146,154,"Perley Pond","USA","Maine",43.9672,-70.7463,8.23,27.5,NA,"Mesotrophic"
+147,155,"Ingalls (Fosters) Pond","USA","Maine",43.966,-70.6864,8.54,60.3,NA,"Mesotrophic"
+148,156,"Jewett Pond (Five Kezar Ponds)","USA","Maine",44.2155,-70.7966,12.5,17.4,NA,"Mesotrophic"
+149,157,"Back Pond Kezar (Five Kezar Ponds)","USA","Maine",44.2099,-70.8138,9.76,21.9,NA,"Mesotrophic"
+150,158,"Middle Pond (Five Kezar Ponds)","USA","Maine",44.2075,-70.8104,14.94,37.2,NA,"Mesotrophic"
+151,159,"Keys Pond","USA","Maine",44.1433,-70.82,12.8,77.3,NA,"Mesotrophic"
+152,160,"Stearns Pond","USA","Maine",44.1222,-70.7772,14.33,100.4,NA,"Mesotrophic"
+153,161,"Pleasant Pond","USA","Maine",44.0063,-70.888,4.57,244.5,NA,"Mesotrophic"
+154,162,"Holt Pond","USA","Maine",43.9768,-70.6786,3.05,16.6,NA,"Mesotrophic"
+155,163,"Peabody Pond","USA","Maine",43.9449,-70.6878,19.51,299.6,NA,"Mesotrophic"
+156,164,"Cold Rain Pond","USA","Maine",43.9306,-70.6576,10.98,14.6,NA,"Mesotrophic"
+157,165,"Tricky Pond","USA","Maine",43.9404,-70.6076,17.38,127.5,NA,"Oligotrophic"
+158,166,"Adams Pond","USA","Maine",43.995,-70.7117,15.55,17.4,NA,"Mesotrophic"
+159,167,"Papoose Pond","USA","Maine",44.2325,-70.7132,4.57,28.3,NA,"Eutrophic"
+160,168,"Keoka","USA","Maine",44.1799,-70.7064,12.8,186.2,NA,"Mesotrophic"
+161,169,"Long (McWain) Pond","USA","Maine",44.1896,-70.6801,12.8,180.2,NA,"Mesotrophic"
+162,170,"Bear Pond","USA","Maine",44.1531,-70.7179,21.95,101.2,NA,"Mesotrophic"
+163,171,"Mud Pond 5 Kezars (Five Kezar Ponds)","USA","Maine",44.2051,-70.8083,10.67,15.8,NA,"Eutrophic"
+164,172,"Moose Pond","USA","Maine",44.1372,-70.7406,13.11,78.9,NA,"Mesotrophic"
+165,173,"Sand Pond","USA","Maine",44.201,-70.611,17.07,55.1,NA,"Mesotrophic"
+166,174,"Pennesseewassee (Norway) ","USA","Maine",44.2303,-70.5829,14.63,399.6,NA,"Mesotrophic"
+167,175,"Thompson Lake (The Heath)","USA","Maine",44.0691,-70.4901,36.89,1789.1,NA,"Oligotrophic"
+168,176,"Island Pond","USA","Maine",44.1605,-70.6427,14.63,46.6,NA,"Mesotrophic"
+169,177,"Crystal (Anonymous) ","USA","Maine",44.1261,-70.6724,19.82,180.6,NA,"Mesotrophic"
+170,178,"Highland ","USA","Maine",44.0799,-70.7384,15.24,540.1,NA,"Mesotrophic"
+171,179,"Woods Pond","USA","Maine",44.0334,-70.736,8.84,187,NA,"Mesotrophic"
+172,180,"Otter Pond","USA","Maine",44.0223,-70.6774,6.4,36.4,NA,"Mesotrophic"
+173,181,"North Pond","USA","Maine",44.2623,-70.5907,3.05,110.5,NA,"Mesotrophic"
+174,182,"Ellis (Roxbury, Silver) Pond","USA","Maine",44.659,-70.6758,13.11,372.1,NA,"Mesotrophic"
+175,183,"Round Pond","USA","Maine",44.9981,-70.718,15.24,54.3,NA,"Mesotrophic"
+176,184,"Haley Pond","USA","Maine",44.9692,-70.6339,7.01,66.4,NA,"Eutrophic"
+177,185,"Saddleback ","USA","Maine",44.9703,-70.5606,4.27,136,NA,"Mesotrophic"
+178,186,"Lake Anasagunticook (Canton Lake)","USA","Maine",44.4256,-70.3239,16.46,242.1,NA,"Mesotrophic"
+179,187,"North Pond","USA","Maine",44.328,-70.4003,15.24,63.2,NA,"Mesotrophic"
+180,188,"Big Bear & Little Bear Pond","USA","Maine",44.3389,-70.2782,8.54,176.9,NA,"Mesotrophic"
+181,189,"Upper Range Pond","USA","Maine",44.0053,-70.3989,11.59,144.5,NA,"Mesotrophic"
+182,190,"Panther Pond","USA","Maine",43.9282,-70.4648,20.73,573.7,NA,"Mesotrophic"
+183,191,"Forest Lake (Goose Pond)","USA","Maine",43.8211,-70.3301,11.59,85.4,NA,"Mesotrophic"
+184,192,"Little Sebago ","USA","Maine",43.8721,-70.4187,15.85,813.4,NA,"Mesotrophic"
+185,193,"Highland (Duck) ","USA","Maine",43.7736,-70.3568,20.43,259.1,NA,"Mesotrophic"
+186,194,"Auburn ","USA","Maine",44.1448,-70.2533,35.98,921.9,NA,"Mesotrophic"
+187,195,"Taylor Pond","USA","Maine",44.1069,-70.2792,13.41,264.4,NA,"Mesotrophic"
+188,196,"Middle Range Pond","USA","Maine",44.0266,-70.3795,20.12,154.7,NA,"Mesotrophic"
+189,197,"Little Wilson (French, Ramsdell) Pond","USA","Maine",44.2044,-70.2879,17.07,45.3,NA,"Eutrophic"
+190,198,"Sabattus Pond","USA","Maine",44.1443,-70.1026,5.79,798.8,NA,"Eutrophic"
+191,199,"Cochnewagon Pond","USA","Maine",44.2314,-70.0444,8.54,159.5,NA,"Mesotrophic"
+192,200,"Pleasant Pond","USA","Maine",44.3189,-70.2255,20.73,77.3,NA,"Mesotrophic"
+193,201,"Berry Pond","USA","Maine",44.3337,-70.024,7.62,70.9,NA,"Mesotrophic"
+194,202,"Dexter Pond","USA","Maine",44.3194,-70.0306,7.62,45.7,NA,"Mesotrophic"
+195,203,"Wilson Pond","USA","Maine",44.2949,-70.0486,12.8,238.1,NA,"Mesotrophic"
+196,204,"Androscoggin ","USA","Maine",44.3242,-70.085,11.59,1627.5,NA,"Mesotrophic"
+197,205,"Mousam ","USA","Maine",43.5075,-70.8588,29.88,397.6,NA,"Mesotrophic"
+198,206,"Square Pond","USA","Maine",43.5571,-70.8862,13.41,355.1,NA,"Mesotrophic"
+199,207,"Mountainy Pond","USA","Maine",44.7166,-68.5342,10.37,282.6,NA,"Oligotrophic"
+200,208,"Witch Hole Pond","USA","Maine",44.3999,-68.2431,9.45,9.7,NA,"Mesotrophic"
+201,209,"Upper Hadlock Pond","USA","Maine",44.3216,-68.2874,11.28,15.4,NA,"Mesotrophic"
+202,210,"Echo ","USA","Maine",44.3289,-68.3375,20.12,95.5,NA,"Oligotrophic"
+203,211,"Seal Cove Pond","USA","Maine",44.3022,-68.397,13.41,103.2,NA,"Mesotrophic"
+204,212,"Walker Pond","USA","Maine",44.3309,-68.6941,14.33,280.6,NA,"Mesotrophic"
+205,213,"Chickawaukie Pond","USA","Maine",44.1404,-69.1137,10.06,143.3,NA,"Eutrophic"
+206,214,"Little Ossipee ","USA","Maine",43.6113,-70.6992,22.56,225.5,NA,"Mesotrophic"
+207,215,"Parker Pond","USA","Maine",44.4942,-70.0315,23.17,617,NA,"Mesotrophic"
+208,216,"Cobbosseecontee ","USA","Maine",44.2694,-69.9296,30.49,2233.2,NA,"Eutrophic"
+209,217,"Sand Pond (Tacoma Lakes)","USA","Maine",44.1809,-69.9698,25,113,NA,"Mesotrophic"
+210,218,"Woodbury (Purgatory) Pond (Tacoma Lakes)","USA","Maine",44.1988,-69.9518,18.9,207.7,NA,"Mesotrophic"
+211,219,"Buker Pond (Tacoma Lakes)","USA","Maine",44.1677,-69.9804,8.54,31.6,NA,"Mesotrophic"
+212,220,"Jimmy Pond","USA","Maine",44.1535,-69.9957,9.76,20.6,NA,"Mesotrophic"
+213,221,"Upper Pleasant (Mud) Pond","USA","Maine",44.1688,-69.8553,7.93,322.7,NA,"Eutrophic"
+214,222,"Long Pond","USA","Maine",44.5056,-69.9142,32.32,1035.2,NA,"Mesotrophic"
+215,223,"Great Pond","USA","Maine",44.5333,-69.8409,21.04,3454.7,NA,"Mesotrophic"
+216,224,"Torsey (Greeley) ","USA","Maine",44.4209,-69.9857,13.72,274.9,NA,"Mesotrophic"
+217,225,"Carlton Pond","USA","Maine",44.3481,-69.9084,17.38,90.3,NA,"Mesotrophic"
+218,226,"Maranacook ","USA","Maine",44.3411,-69.9503,39.02,746.6,NA,"Mesotrophic"
+219,227,"Kezar Pond","USA","Maine",44.3158,-69.9166,7.01,8.1,NA,"Mesotrophic"
+220,228,"North Lake (Little Pond)","USA","Maine",44.6279,-69.8418,6.1,1024.7,NA,"Mesotrophic"
+221,229,"East Pond","USA","Maine",44.6103,-69.7822,8.23,695.1,NA,"Mesotrophic"
+222,230,"Salmon Pond (Ellis Pond)","USA","Maine",44.5275,-69.7796,17.38,281.4,NA,"Mesotrophic"
+223,231,"Damariscotta ","USA","Maine",44.1411,-69.4854,34.76,1897.2,NA,"Mesotrophic"
+224,232,"Webber Pond","USA","Maine",44.4107,-69.6564,12.5,499.2,NA,"Eutrophic"
+225,233,"Threemile Pond","USA","Maine",44.3667,-69.6046,11.28,475.3,NA,"Eutrophic"
+226,234,"China ","USA","Maine",44.4302,-69.5473,25.91,1594.7,NA,"Eutrophic"
+227,235,"Swan Lake (Goose Pond)","USA","Maine",44.5482,-68.9896,26.52,561.9,NA,"Mesotrophic"
+228,236,"Beaver Pond","USA","Maine",44.0657,-70.7718,10.67,27.9,NA,"Mesotrophic"
+229,237,"Paradise (Muddy) Pond","USA","Maine",44.0252,-69.4873,3.35,68,NA,"Mesotrophic"
+230,238,"Long ","USA","Maine",44.0372,-70.6554,17.99,2143.7,NA,"Mesotrophic"
+231,239,"Little Cobbosseecontee","USA","Maine",44.3285,-69.8858,10.06,36.8,NA,"Eutrophic"
+232,240,"Bay of Naples Lake (Brandy Pond)","USA","Maine",43.9552,-70.5894,13.41,299.6,NA,"Mesotrophic"
+233,241,"Kezar Pond","USA","Maine",44.0848,-70.886,3.66,749.4,NA,"Mesotrophic"
+234,242,"Annabessacook ","USA","Maine",44.2697,-69.9801,14.94,572.9,NA,"Eutrophic"
+235,243,"Ashuelot Pond","USA","NH",43.1498,-72.1488,NA,NA,NA,NA
+236,244,"Blaisdell","USA","NH",43.2878,-71.9368,NA,NA,NA,NA
+237,245,"Canaan Street","USA","NH",43.6642,-72.0339,NA,NA,NA,NA
+238,246,"Chase Pond","USA","NH",43.4153,-71.9123,NA,NA,NA,NA
+239,247,"Clough Pond","USA","NH",43.3245,-71.497,NA,NA,NA,NA
+240,248,"Crystal   ","USA","NH",43.4434,-71.3111,NA,NA,NA,NA
+241,249,"Crystal   ","USA","NH",42.9513,-71.4076,NA,NA,NA,NA
+242,250,"Dutchman Pond","USA","NH",43.4547,-72.0234,NA,NA,NA,NA
+243,251,"Forest","USA","NH",44.3494,-71.6709,NA,NA,NA,NA
+244,252,"Granite","USA","NH",43.021,-72.1414,NA,NA,NA,NA
+245,253,"Halfmoon","USA","NH",43.3911,-71.2277,NA,NA,NA,NA
+246,254,"Hills Pond","USA","NH",43.4813,-71.3032,NA,NA,NA,NA
+247,255,"Island Pond","USA","NH",42.866,-71.2114,NA,NA,NA,NA
+248,256,"Island Pond","USA","NH",43.0693,-72.0868,NA,NA,NA,NA
+249,257,"Kezar","USA","NH",43.3614,-71.9501,NA,NA,NA,NA
+250,258,"Kolelemook","USA","NH",43.4885,-72.0417,NA,NA,NA,NA
+251,259,"Massasecum","USA","NH",43.2427,-71.9127,NA,NA,NA,NA
+252,260,"Millen Pond","USA","NH",43.1684,-72.1212,NA,NA,NA,NA
+253,261,"Nubanusit","USA","NH",42.9863,-72.0577,NA,NA,NA,NA
+254,262,"Otter Pond","USA","NH",43.433,-72.057,NA,NA,NA,NA
+255,263,"Partridge","USA","NH",44.3096,-71.8827,NA,NA,NA,NA
+256,264,"Pawtuckaway","USA","NH",43.0872,-71.1381,NA,NA,NA,NA
+257,265,"Perkins Pond","USA","NH",43.4095,-72.1165,NA,NA,NA,NA
+258,266,"Pleasant","USA","NH",43.4288,-71.9594,NA,NA,NA,NA
+259,267,"Post Pond","USA","NH",43.8273,-72.1502,NA,NA,NA,NA
+260,268,"Rand Pond","USA","NH",43.319,-72.1079,NA,NA,NA,NA
+261,269,"Spofford","USA","NH",42.9171,-72.4396,NA,NA,NA,NA
+262,270,"Stinson","USA","NH",43.868,-71.7986,NA,NA,NA,NA
+263,271,"Stocker Pond","USA","NH",43.4825,-72.1102,NA,NA,NA,NA
+264,272,"Sunset","USA","NH",43.4742,-71.3096,NA,NA,NA,NA
+265,273,"Todd","USA","NH",43.2803,-71.9682,NA,NA,NA,NA
+266,274,"Webster","USA","NH",43.4668,-71.6827,NA,NA,NA,NA
+267,275,"White Oak Pond","USA","NH",43.7175,-71.5576,NA,NA,NA,NA
+268,276,"Dorrs Pond","USA","NH",43.0142,-71.4548,NA,NA,NA,NA
+269,277,"Pine Island Pond","USA","NH",42.9329,-71.4489,NA,NA,NA,NA
+270,278,"Stevens Pond","USA","NH",42.9954,-71.4212,NA,NA,NA,NA
+271,279,"Abiskojaure","Sweden","Norbotten",68.2962,18.61,35,282,NA,NA
+272,280,"Algsjon","Sweden","S?dermanland",58.9034,16.3172,7,36,NA,NA
+273,281,"Allgjuttern","Sweden","Kalmar",57.9507,16.0895,40,18,NA,NA
+274,282,"Brunnsjon","Sweden","Kalmar",56.5968,15.7255,13,10,NA,NA
+275,283,"Ejgdesjon","Sweden","V?stra G?taland ",58.8833,11.4667,29,86,NA,NA
+276,284,"Fiolen","Sweden","Kronoberg",57.0837,14.5308,10,156,NA,NA
+277,285,"Fracksjon","Sweden","V?stra G?taland ",58.1531,12.1798,15,28,NA,NA
+278,286,"Gyslattasjon","Sweden","Kronoberg",57.1106,14.4794,10,32,NA,NA
+279,287,"Harsvatten","Sweden","V?stra G?taland ",58.0244,12.0332,26,18,NA,NA
+280,288,"Kallsjon","Sweden","G?vleborg",61.6292,16.7326,17,27,NA,NA
+281,289,"Langsjon","Sweden","Orebro",58.8998,15.1356,18,67,NA,NA
+282,290,"Lien","Sweden","V?stmanland",59.8142,15.516,21,39,NA,NA
+283,292,"N Sarnamannasjon","Sweden","Dalarna",0,0,5,38,NA,NA
+284,293,"O Sarnamannasjon","Sweden","Dalarna",0,0,6,24,NA,NA
+285,294,"Remmarsjon","Sweden","V?sternorrland",63.8672,18.2636,14,140,NA,NA
+286,295,"Rotehogstjarnen","Sweden","V?stra G?taland ",58.814,11.6174,9,16,NA,NA
+287,296,"St Skarsjon","Sweden","Halland",56.6748,13.072,12,32,NA,NA
+288,297,"Stengardshultasjon","Sweden","J?nk?ping",57.5414,13.8159,26,498,NA,NA
+289,298,"Stensjon","Sweden","Stockholm",59.1823,18.3112,21,39,NA,NA
+290,299,"Stora Harsjon","Sweden","V?stra G?taland ",57.7234,12.3319,47,251,NA,NA
+291,300,"V Skalsjon","Sweden","V?stmanland",59.9339,15.5464,19,43,NA,NA
+292,301,"Tryssjon","Sweden","Dalarna",60.4335,15.0827,19,29,NA,NA
+293,302,"Ovre Skarsjon","Sweden","V?stmanland",59.8456,15.55,32,169,NA,NA
+294,303,"Bosjon","Sweden","Dalarna",61.3267,14.2875,18,113,NA,NA
+295,304,"Gyltigesjon","Sweden","Halland",56.7593,13.1765,21.6,39.4,NA,NA
+296,305,"Stora Envattern","Sweden","Stockholm",59.1163,17.3465,11,37,NA,NA
+297,306,"Champlain - Main Lake","USA","Vermont",44.5861,-73.3745,122,126909,NA,NA
+298,307,"FDR Reservoir","USA","Washington",47.8324,-118.4076,NA,32012.3,NA,NA
+299,308,"OTTER","USA","Minnesota",45.1234,-93.0455,6.4,136.8,NA,NA
+300,309,"GOLDEN","USA","Minnesota",45.1395,-93.1533,7.3,23.1,NA,NA
+301,310,"SALLIE","USA","Minnesota",46.7742,-95.8911,17.7,512.6,NA,NA
+302,311,"DETROIT","USA","Minnesota",46.7765,-95.832,25,1200.7,NA,NA
+303,312,"LONG","USA","Minnesota",46.813,-95.8932,18.6,144.5,NA,NA
+304,313,"LITTLE FLOYD","USA","Minnesota",46.8727,-95.8328,9.8,83,NA,NA
+305,314,"MUD","USA","Minnesota",46.883,-95.8599,NA,NA,NA,NA
+306,315,"MELISSA","USA","Minnesota",46.7431,-95.907,13.1,750.6,NA,NA
+307,316,"RILEY","USA","Minnesota",44.8354,-93.5181,15.2,121.7,NA,NA
+308,317,"ZUMBRA-SUNNY","USA","Minnesota",44.8891,-93.6632,17.7,65.6,NA,NA
+309,318,"PARLEY","USA","Minnesota",44.8799,-93.7274,6.1,113.7,NA,NA
+310,319,"AUBURN (WEST BAY)","USA","Minnesota",44.8683,-93.6947,25.6,NA,NA,NA
+311,320,"STEIGER","USA","Minnesota",44.8677,-93.6593,12.2,113.7,NA,NA
+312,321,"WASSERMANN","USA","Minnesota",44.8411,-93.6735,12.5,112,NA,NA
+313,322,"PIERSONS","USA","Minnesota",44.8341,-93.6968,12.2,137.6,NA,NA
+314,323,"POWDERHORN","USA","Minnesota",44.9409,-93.2562,6.1,4.5,NA,NA
+315,324,"HARRIET","USA","Minnesota",44.9206,-93.306,25,142.9,NA,NA
+316,325,"HIAWATHA","USA","Minnesota",44.9211,-93.2362,9.4,21.9,NA,NA
+317,326,"NOKOMIS","USA","Minnesota",44.9075,-93.2405,10.1,82.6,NA,NA
+318,327,"CALHOUN","USA","Minnesota",44.9399,-93.3104,27.4,170.4,NA,NA
+319,328,"WIRTH","USA","Minnesota",44.9825,-93.3231,7.6,15,NA,NA
+320,329,"CEDAR","USA","Minnesota",44.9615,-93.3201,15.5,68.8,NA,NA
+321,330,"LAKE OF THE ISLES","USA","Minnesota",44.9539,-93.309,9.4,41.7,NA,NA
+322,331,"HYLAND","USA","Minnesota",44.8243,-93.3678,2.4,42,NA,NA
+323,332,"BRYANT","USA","Minnesota",44.8769,-93.4285,13.7,70.5,NA,NA
+324,333,"MEDICINE","USA","Minnesota",45.0052,-93.4148,14.9,383.8,NA,NA
+325,334,"PARKERS","USA","Minnesota",44.9925,-93.4714,11.3,37.2,NA,NA
+326,335,"EAGLE/PIKE (EAGLE BAY)","USA","Minnesota",45.0735,-93.4127,10.7,NA,NA,NA
+327,336,"WEAVER","USA","Minnesota",45.1099,-93.5007,17.4,59.7,NA,NA
+328,337,"FISH","USA","Minnesota",45.0881,-93.4668,14.6,92.1,NA,NA
+329,338,"DIAMOND","USA","Minnesota",45.2014,-93.5053,2.1,165.1,NA,NA
+330,339,"MINNETONKA (LOWER LAKE)","USA","Minnesota",44.9147,-93.568,7.6,NA,NA,NA
+331,340,"PEAVEY","USA","Minnesota",44.9646,-93.5361,NA,4,NA,NA
+332,341,"FOREST","USA","Minnesota",44.9575,-93.6324,12.5,32.8,NA,NA
+333,342,"SPURZEM","USA","Minnesota",45.0363,-93.6222,11,26.3,NA,NA
+334,343,"LONG","USA","Minnesota",44.9873,-93.5614,10.1,110,NA,NA
+335,344,"INDEPENDENCE","USA","Minnesota",45.0253,-93.6448,17.7,344.2,NA,NA
+336,345,"WHALETAIL (S. BAY)","USA","Minnesota",44.9324,-93.7163,6.7,NA,NA,NA
+337,346,"REBECCA","USA","Minnesota",45.0652,-93.7404,9.1,94.7,NA,NA
+338,347,"SPRING","USA","Minnesota",44.9702,-93.2968,NA,NA,NA,NA
+339,348,"LORING (S. BAY)","USA","Minnesota",44.9691,-93.2843,NA,1.4,NA,NA
+340,349,"BETTY (BETSY)","USA","Minnesota",45.2745,-94.2828,7.6,73.7,NA,NA
+341,350,"SILVER","USA","Minnesota",45.0281,-92.9861,5.5,27.5,NA,NA
+342,351,"BALD EAGLE","USA","Minnesota",45.1101,-93.0136,11.9,409.5,NA,NA
+343,352,"KOHLMAN","USA","Minnesota",45.0246,-93.058,2.7,29.1,NA,NA
+344,353,"GERVAIS","USA","Minnesota",45.0171,-93.0716,14.6,86,NA,NA
+345,354,"KELLER (MAIN)","USA","Minnesota",45.01,-93.0609,2.4,27.7,NA,NA
+346,355,"WAKEFIELD","USA","Minnesota",44.9948,-93.0356,NA,9.3,NA,NA
+347,356,"ROUND","USA","Minnesota",44.9939,-93.0625,2.4,12.1,NA,NA
+348,357,"PHALEN","USA","Minnesota",44.9928,-93.0563,27.7,88.4,NA,NA
+349,358,"BEAVER","USA","Minnesota",44.9733,-93.0052,2.1,34,NA,NA
+350,359,"TWIN","USA","Minnesota",45.0403,-93.0901,10.1,14.6,NA,NA
+351,360,"CROSBY","USA","Minnesota",44.9048,-93.1493,5.79,19.4,NA,NA
+352,361,"BENNETT","USA","Minnesota",45.0191,-93.1436,NA,16.6,NA,NA
+353,362,"McCARRON","USA","Minnesota",44.9982,-93.1119,17.3,32.9,NA,NA
+354,363,"COMO","USA","Minnesota",44.9799,-93.1411,4.9,28.5,NA,NA
+355,364,"OWASSO","USA","Minnesota",45.0388,-93.1235,12.2,144.5,NA,NA
+356,365,"JOSEPHINE","USA","Minnesota",45.0332,-93.1518,13.4,44,NA,NA
+357,366,"TURTLE","USA","Minnesota",45.098,-93.1372,7.3,179.7,NA,NA
+358,367,"North Long","USA","Minnesota",45.0724,-93.1992,NA,NA,NA,NA
+359,368,"South Long","USA","Minnesota",45.0724,-93.1992,NA,NA,NA,NA
+360,369,"PIKE","USA","Minnesota",45.0678,-93.2082,4.9,14.6,NA,NA
+361,370,"VALENTINE","USA","Minnesota",45.0587,-93.1652,4,24.1,NA,NA
+362,371,"SNAIL","USA","Minnesota",45.0693,-93.1227,9.1,63.4,NA,NA
+363,372,"ISLAND (BASIN S. OF I-694)","USA","Minnesota",45.0532,-93.1365,1.5,NA,NA,NA
+364,373,"ISLAND (BASIN N. OF I-694)","USA","Minnesota",45.058,-93.1341,1.5,NA,NA,NA
+365,374,"JOHANNA","USA","Minnesota",45.04,-93.1724,12.2,93,NA,NA
+366,375,"WABASSO","USA","Minnesota",45.0445,-93.1167,20.1,18.8,NA,NA
+367,376,"SILVER","USA","Minnesota",45.0447,-93.2261,14.3,28.1,NA,NA
+368,377,"CLEARY","USA","Minnesota",44.6931,-93.3907,NA,55.4,NA,NA
+369,378,"SPRING","USA","Minnesota",44.702,-93.4748,10.4,255.3,NA,NA
+370,379,"UPPER PRIOR","USA","Minnesota",44.7166,-93.4442,13.1,137.6,NA,NA
+371,380,"SQUARE","USA","Minnesota",45.1563,-92.8043,20.7,85,NA,NA
+372,381,"DEMONTREVILLE","USA","Minnesota",45.0217,-92.9398,7.3,56.8,NA,NA
+373,382,"TANNERS","USA","Minnesota",44.9507,-92.9806,15,28.4,NA,NA
+374,383,"CARVER","USA","Minnesota",44.906,-92.98,11,20.6,NA,NA
+375,384,"WHITE BEAR","USA","Minnesota",45.0687,-92.9739,25.3,1046,NA,NA
+376,385,"CLEARWATER (WEST)","USA","Minnesota",45.3152,-94.1274,21.3,600.1,NA,NA
+377,386,"LOUISA","USA","Minnesota",45.3075,-94.2541,13.7,60.1,NA,NA
+378,387,"AUGUSTA","USA","Minnesota",45.2991,-94.1685,25.6,65.2,NA,NA
+379,388,"SCOTT","USA","Minnesota",45.2755,-94.258,7,37.2,NA,NA
+380,389,"Beaver Lake near Eureka Springs","USA","Arkansas",36.4209,-93.8474,NA,12800,NA,NA
+381,390,"Bull Shoals Lake near Flippin","USA","Arkansas",36.3656,-92.5749,64,18271.6,NA,NA
+382,391,"Norfork Lake near Norfork","USA","Arkansas",36.2492,-92.2379,54,8900,NA,NA
+383,392,"Greers Ferry Lake near Heber Springs","USA","Arkansas",35.5209,-91.9951,148,16389.8,NA,NA
+384,393,"Lake Maumelle at Natural Steps","USA","Arkansas",34.8609,-92.5021,NA,3600,NA,NA
+385,394,"Lake Winona at Reform","USA","Arkansas",34.7978,-92.8514,NA,501.8,NA,NA
+386,395,"Arrowrock Reservoir","USA","Idaho",43.5919,-115.9167,0,1254.5,NA,NA
+387,396,"Branched Oak","USA","Nebraska",40.9734,-96.8539,NA,728.4,NA,NA
+388,397,"Zorinsky","USA","Nebraska",41.2189,-96.1616,NA,414.2,NA,NA
+389,398,"Marion","USA","South Carolina",33.4458,-80.3214,23,44515,NA,NA
+390,399,"Moultrie","USA","South Carolina",33.3164,-80.0569,22.8,24443,NA,NA
+391,400,"Claytor","USA","Virginia",37.0744,-80.5881,37.5,1820.8,NA,NA
+392,401,"Smith Mountain","USA","Virginia",37.0417,-79.5833,76,8288,NA,NA
+393,402,"Okareka","New Zealand","Bay of Plenty",-38.172,176.3599,34,336.7,NA,NA
+394,403,"Okaro","New Zealand","Bay of Plenty",-38.2989,176.3935,18,31,NA,NA
+395,404,"Okataina","New Zealand","Bay of Plenty",-38.1193,176.4139,78.5,1087.8,NA,NA
+396,405,"Rerewhakaaitu","New Zealand","Bay of Plenty",-38.2944,176.5012,15,802.9,NA,NA
+397,406,"Rotoehu","New Zealand","Bay of Plenty",-38.0226,176.5328,13.5,802.9,NA,NA
+398,407,"Rotoiti","New Zealand","Bay of Plenty",-38.0311,176.4202,93.5,3418.8,NA,NA
+399,408,"Rotoma","New Zealand","Bay of Plenty",-38.0536,176.5855,83,1113.7,NA,NA
+400,409,"Rotorua","New Zealand","Bay of Plenty",-38.0608,176.2692,45,7977.2,NA,NA
+401,410,"Tikitapu","New Zealand","Bay of Plenty",-38.195,176.3299,27.5,139.9,NA,NA
+402,411,"Bostwick","USA","Michigan",43.0922,-85.4586,NA,87.8,NA,NA
+403,412,"Round","USA","Michigan",41.9642,-84.2742,20.4,208.4,NA,NA
+404,413,"Hamlin (Lower)","USA","Michigan",44.0553,-86.4683,24,2019.4,NA,NA
+405,414,"Hamlin (Upper)","USA","Michigan",44.0731,-86.4442,10,0,NA,NA
+406,415,"Acton","USA","Ohio",39.5628,-84.7406,NA,253,NA,NA
+407,416,"Leech Main","USA","Minnesota",47.1496,-94.421,13,NA,NA,NA
+408,417,"Leech West Basin","USA","Minnesota",47.1475,-94.593,30.5,NA,NA,NA
+409,418,"Lincoln","USA","Missouri",39.0203,-90.9217,21.03,12.8,"Warm monomictic","Mesotrophic"
+410,419,"Kraut Run","USA","Missouri",38.7353,-90.7619,6.71,58.6,"Warm monomictic","Hypereutrophic"
+411,420,"Wapapello","USA","Missouri",36.9311,-90.2806,12.8,3251.9,"Warm monomictic","Mesotrophic"
+412,421,"Long Branch","USA","Missouri",39.7514,-92.515,21.64,985.4,"Warm monomictic","Mesotrophic"
+413,422,"Deer Ridge","USA","Missouri",40.1803,-91.8269,11.58,17.1,"Warm monomictic","Mesotrophic"
+414,423,"North","USA","Missouri",38.6861,-94.3583,8.53,15.3,"Warm monomictic","Eutrophic"
+415,424,"Watkins Mill","USA","Missouri",39.3933,-94.2631,15.85,43.9,"Warm monomictic","Mesotrophic"
+416,425,"Atkinson","USA","Missouri",38.0064,-94.0461,8.53,194.6,"Warm monomictic","Eutrophic"
+417,426,"Pomme De Terre","USA","Missouri",37.9017,-93.32,47.24,3765.8,"Warm monomictic","Mesotrophic"
+418,427,"Fellows","USA","Missouri",37.3153,-93.23,30.48,286.4,"Warm monomictic","Mesotrophic"
+419,428,"Little Prairie","USA","Missouri",37.9969,-91.6917,14.63,38.9,"Warm monomictic","Mesotrophic"
+420,429,"Henry Sever","USA","Missouri",40.0058,-91.975,12.5,56.7,"Warm monomictic","Mesotrophic"
+421,430,"Little Dixie","USA","Missouri",38.9056,-92.1222,12.8,78.5,"Warm monomictic","Eutrophic"
+422,431,"Higginsville","USA","Missouri",39.0617,-93.67,10.36,71.6,"Warm monomictic","Hypereutrophic"
+423,432,"Mark Twain","USA","Missouri",39.5223,-91.6467,34.14,7496.4,"Warm monomictic","mesotrophic"
+424,433,"Lake of the Ozarks","USA","Missouri",38.2039,-92.6236,45.11,20774.4,"Warm monomictic","Mesotrophic"
+425,434,"Nowaday County","USA","Missouri",40.4264,-94.8578,16.76,29.5,"Warm monomictic","Mesotrophic"
+426,435,"Mozingo","USA","Missouri",40.3495,-94.7776,23.47,408.3,"Warm monomictic","Mesotrophic"
+427,436,"Fox Valley","USA","Missouri",40.4977,-91.7668,15.85,43.7,"Warm monomictic","Mesotrophic"
+428,437,"Hazel Hill","USA","Missouri",38.8458,-93.7779,11.58,28.7,"Warm monomictic","Mesotrophic"
+429,438,"Manito","USA","Missouri",38.5911,-92.8072,13.11,31.2,"Warm monomictic","Eutrophic"
+430,439,"Bismark/Carl Disalvo","USA","Missouri",37.7297,-90.6347,7.32,86.6,"Warm monomictic","Eutrophic"
+431,440,"Mozhaysk reservoir","Russia","Moscow Region",55.5827,35.8585,22,3070,"Dimictic","Eutrophic"
+432,441,"Castle","USA","California",41.2275,-122.3836,34,19,NA,"Oligotrophic"
+433,442,"Nkuruba","Uganda","Kabarole",0.5169,30.3028,38,3,NA,"Eutrophic"
